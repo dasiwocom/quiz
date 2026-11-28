@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   prefetch: viewport
   analytics: null
-  locale: zh-CN
+  locale: en-US
   baseUrl: quiz.dasiwo.com
   ignorePatterns:
     - private
